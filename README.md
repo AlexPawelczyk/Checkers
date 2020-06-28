@@ -14,17 +14,20 @@ Console-based version of the classic game of checkers
 
 # Instructions for Playing the Game
 I.  APPLICATION START-UP
+
     Once the application is started the user is presented with three options: 
     	1. START GAME 
       	2. VIEW STATS
       	3. CLOSE APP
 
 II. User is asked to enter their selection from the above menu
+
 	   	- Entering '1' ==> picking the START GAME option 
 	   	- Entering '2' ==> picking the VIEW STATS option
 	   	- Entering '3' ==> picking the CLOSE APP option  
 
 III. NECESSARY INSTRUCTIONS FOR PLAYING CHECKERS
+
 		- Players alternate turns, moving 1 piece per turn
 			* To move a piece, the system asks the user to...
 				- Enter the ROW# of piece that user wants to move
@@ -112,5 +115,7 @@ III. NECESSARY INSTRUCTIONS FOR PLAYING CHECKERS
 
 # REFERENCES
 1. https://www.youtube.com/watch?v=Asz5yHz8KiA
+
 2. http://xoax.net/cpp/crs/console/lessons/Lesson43/
+
 3. http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
